@@ -62,7 +62,7 @@ body {
     transition: all 0.3s;
 }
 .audio-file:hover {
-    background: #555;
+    background: rgba(30,30,30,0.5);
 }
 .audio-file.active {
     background: #777;
@@ -100,7 +100,7 @@ body {
 .cache-folder:hover,
 .download-folder:hover {
     color: #ff5722 !important;
-    background: #555;
+    background: rgba(30,30,30,0.5);;
 }
 
 #player-container {
@@ -136,9 +136,13 @@ audio::-webkit-media-controls-panel {
   background-color: #9c27b0;
 }
 
-#audio-previous, #audio-next {
+.playing 
+{
+  background-color: rgba(30,30,30,0.5);
+  font-weight: bold;
+}
 
+#audio-previous, #audio-next {
 	height: 40px;
 	margin-bottom: 32px;
-
 }
