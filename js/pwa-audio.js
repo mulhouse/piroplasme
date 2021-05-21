@@ -193,12 +193,6 @@ function previousRandomId()
     return false;
 }
 
-document.querySelector('#audio-random').addEventListener('click', (evt) =>
-{
-    initRandomQueue();
-    playNextAudioFile(AudioPlayerActions.RANDOM_NEXT);
-});
-
 // On ended audio player
 $$_audio.player.addEventListener('ended', (evt) =>
 {
