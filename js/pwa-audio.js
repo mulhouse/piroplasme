@@ -60,7 +60,7 @@ function displayCurrentAudioFile()
 function playNextAudioFile(action)
 {
     let canPlayNext = false;
-
+console.log('action:', action);
     switch (action)
     {
         case AudioPlayerActions.NEXT:
@@ -93,7 +93,10 @@ function playCurrentAudioFile()
     if (currentAudioFile)
     {
         displayCurrentAudioFile();
-
+	//	currentAudioFile.setAttribute('style','background-color:black;');
+		let lastplayed = document.getElementsByClassName('playing');
+		if (lastplayed.length>0) lastplayed[0].classList.remove('playing');
+		currentAudioFile.classList.add('playing');
         $$_audio.player.setAttribute('src', currentAudioFile.getAttribute('href'));
         //FIXME: there could be download errors ; maybe use a promise to handle the case
         $$_audio.player.play();
