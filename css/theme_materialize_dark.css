@@ -146,3 +146,25 @@ audio::-webkit-media-controls-panel {
 	height: 40px;
 	margin-bottom: 32px;
 }
+
+input[type=checkbox] {
+    display: none;
+}
+
+label {
+  display: inline-block;
+  position:relative;
+
+}
+
+input[type=checkbox] + label:after {
+    font-family: 'Material Icons';
+    content: "\E041";
+	font-size: 1.2em;
+}
+
+input[type=checkbox]:checked + label:after {
+	font-family: 'Material Icons';
+    content: "\E9D7";
+	font-size:1.2em;
+}
