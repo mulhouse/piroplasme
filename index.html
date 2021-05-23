@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -10,6 +9,14 @@
         <meta name="theme-color" content="#2F3BA2">
         <!-- MUST BE 192px SQUARE (OR 180px) -->
         <link rel="apple-touch-icon" href="images/icons/icon-192x192.png">
+
+		<link rel="icon" type="image/png" href="images/icons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="images/icons/favicon-16x16.png" sizes="16x16">
+		<!--
+		<link rel="manifest" href="/manifest.json">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		-->
+		
         <link rel="stylesheet" href="css/theme_materialize_dark.css">
         <link rel="stylesheet" href="css/materialize.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -122,32 +129,23 @@
                         <p>Made with: <a href="https://github.com/HE-Arc/pwa-playlist-generator" target="_blank" rel="noopener">PWA Playlist Generator</a></p>
             </div>
         </footer>
-		
-		
 
-
-        <div id="player-container" class="purple darken-4 white-text center">
-	
-
-		    <div class="switch">
+	<div id="player-container" class="purple darken-4 white-text center">
+	    <div>
             <span id="current-audio-file">No sound</span>
-			<label> <input id="audio-repeat" type="checkbox" name="audio-repeat" /><span class="lever"></span><span><i class="material-icons">repeat</i></span></label>
-			</div>
-
-	
-
+			<input id="audio-repeat" type="checkbox" name="audio-repeat" />
+			<label for="audio-repeat" />
+		</div>
 		
-		
-            <audio id="audio-player" controls>
-                <source src="">
+        <audio id="audio-player" controls>
+            <source src="">
                 Your browser does not support the audio element.
-            </audio>
-<div>
-<button id="audio-previous" class="btn-small waves-effect waves-light purple"><i class="material-icons">skip_previous</i></button>		
-<button id="audio-next" class="btn-small waves-effect waves-light purple"><i class="material-icons">skip_next</i></button>
-</div>
-		
-        </div>
+        </audio>
+	<div>
+		<button id="audio-previous" class="btn-small waves-effect waves-light purple"><i class="material-icons">skip_previous</i></button>		
+		<button id="audio-next" class="btn-small waves-effect waves-light purple"><i class="material-icons">skip_next</i></button>
+	</div>
+    </div>
 
         <script src="service-worker.js"></script>
         <script src="pwa.js"></script>
@@ -158,4 +156,3 @@
 
     </body>
 </html>
-    
