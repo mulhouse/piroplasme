@@ -224,7 +224,7 @@ document.querySelectorAll('.download-folder').forEach(el =>
                 .then((blob) =>
                 {
                     // Triggers the download
-                    let zipName = parentUL.getAttribute('data-name');
+                    let zipName = parentUL.getAttribute('data-name')+'.zip';
                     triggerDownload(zipName, blob);
                 });
             })
