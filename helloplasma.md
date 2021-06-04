@@ -1,5 +1,5 @@
 # Hello Plasma
-Plasma is an association aimed at setting up surprising obscure indie gigs in insolite places for few people. Active from 96 to 10.
+Plasma was an association aimed at setting up amazing gigs of obscure indie bands in insolite places for few people. Active from 94 to 10, in the east of France.
 
 # History
 | Date     | Titre                            | Son                                                                               | Images                        | Action             | Lieu                    | Ville        |
@@ -57,7 +57,7 @@ Plasma is an association aimed at setting up surprising obscure indie gigs in in
 | 11.03.04 | Conférence                       |                                                                                   | Fondation Steve Barnett       |                    | Tival                   | Kingersheim  |
 | 19.06.04 | Punisher Party II                | Donna Summer, CHDH, Harry Poppers, Horny Chicken Club                             |                               | Anne Zimmermann    | Noumatrouff             | Mulhouse     |
 | 18.06.05 | Punisher Party III               | Andy Guhl, Gangpol und mit, Bodenstandig 2000, Harry Poppers, Mabuseki            |                               | Noumatrouff        | Mulhouse                |              |
-| 17.06.06 | Punisher Party IV                | Scrambled Hackz, Juicy Panic, Felix Kubin, DJ Punisher                            |                               |                    | Noumatrouff             | Mulhouse     |
+| 17.06.06 | Punisher Party IV                | [Scrambled Hackz](https://www.youtube.com/watch?v=eRlhKaxcKpA), [Juicy Panic](https://www.youtube.com/watch?v=xZ3Vxiz1jkU), Felix Kubin, DJ Punisher                            |                               |                    | Noumatrouff             | Mulhouse     |
 | 15.05.07 | Neia Party                       | Felix Kubin & Coolhaven, Cradle of Smurf, Mabuseki, Punisher                      |                               | Molodoi            | Strasbourg              |              |
 | 08.06.07 | Punisher Party V                 | Candie Hank, Angie Reed, Duracell, DJ Punisher                                    |                               |                    | Noumatrouff             | Mulhouse     |
 | 19.10.07 |                                  | Leonard de Leonard, Panico, Mutant Pillow                                         |                               |                    | Grillen                 | Colmar       |
