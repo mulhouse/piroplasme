@@ -1,5 +1,5 @@
 # Hello Plasma
-Plasma was an association aimed at setting up amazing gigs of obscure indie bands in insolite places for few people. Active from 94 to 10, in the east of France, they released [Piroplasme](https://mulhouse.github.io/piroplasme/), a CD sampler of 14 local indie bands in 95.
+Plasma was an association aimed at setting up amazing gigs of obscure indie bands in insolite places for few people. Active from 94 to 10, in the east of France, they released <a href="https://mulhouse.github.io/piroplasme" target="_self">Piroplasme</a>), a CD sampler of 14 local indie bands in 95.
 
 # History
 | Date     | Titre                            | Son                                                                               | Images                        | Action             | Lieu                    | Ville        |
