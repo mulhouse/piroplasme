@@ -2,7 +2,7 @@
 Plasma was an association aimed at setting up amazing gigs of obscure indie bands in insolite places for few people. Active from 94 to 10, in the east of France, they released <a href="https://mulhouse.github.io/piroplasme" target="_self">Piroplasme</a>), a CD sampler of 14 local indie bands in 95.
 
 # History
-| Date     | Titre                            | Son                                                                               | Images                        | Action             | Lieu                    | Ville        |
+| Date     | Event                            | Sounds                                                                               | Images                        | Action             | Venue                    | Town        |
 |----------|----------------------------------|-----------------------------------------------------------------------------------|-------------------------------|--------------------|-------------------------|--------------|
 | 15.09.94 |                                  |                                                                                   | Granulare Synthesis           |                    | Noumatrouff             | Mulhouse     |
 | 02.10.94 |                                  | [KG](https://freekg.bandcamp.com), Moonshake                                                                     |                               |                    | Noumatrouff             | Mulhouse     |
