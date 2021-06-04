@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Le Plasma</title>
+    <base target="_blank"> 
+	<meta charset="utf-8" />
+    <meta name="theme-color" content="black" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="description" content="indie punk pop band" />
+	<meta http-equiv="content-language" content="en_US" />
+	<meta name="language" content="en_US" />
+	<style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Quando&display=swap');
+		body {	
+			font-family: 'Quando', serif;
+            font-size: 0.9em;
+			color: rgb(104, 151, 15); 
+			background-color: rgb(24, 24, 24);
+		/*	background-image: url(images/index.jpg);   */
+		    background-size: 100%;	
+			}
+        tbody>tr>td:nth-child(3), tbody>tr>td:nth-child(4) {color: rgba(255, 255, 0, 0.75);}
+		h1 {font-size: 2em; text-align: center; color: yellow;}
+		a {color: yellow;}
+		a:hover {background-color: yellow; color: red;}
+	</style>
+</head>
+<body>
+    <div id="content"></div>
+    <script src="https://cdn.jsdelivr.net/remarkable/1.7.1/remarkable.min.js"></script>
+    <script>
+        let url = "https://raw.githubusercontent.com/mulhouse/piroplasme/main/helloplasma.md";
+        let md = new Remarkable();
+        fetch(url)
+            .then (response => response.text())
+            .then (data => document.getElementById("content").innerHTML = md.render(data)); 
+    </script>
+</body>
+</html>
