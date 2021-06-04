@@ -24,7 +24,7 @@ body {
     margin: 0.4em 0;
 	font-size: 0.6em;
 }
-.page-footer a {
+.page-footer a,a {
     color: #ff1744;
     transition: all 0.3s;
 }
