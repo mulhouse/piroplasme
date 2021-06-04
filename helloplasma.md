@@ -66,7 +66,4 @@ Plasma was an association aimed at setting up amazing gigs of obscure indie band
 | 04.04.10 |                                  | Cheveu, Feeling of Love                                                           |                               |                    | Grillen                 | Colmar       |
 | 12.06.10 | Punisher Party VII               | Thiaz Itch, Les Trucs, Driver & Driver                                            |                               |                    | Noumatrouff             | Mulhouse     |
 
-# Playlist
-https://www.youtube.com/playlist?list=PLbIbXFTzonurH8gzJmO6AMoy7ckYAErzD
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLbIbXFTzonurH8gzJmO6AMoy7ckYAErzD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# [Playlist](https://www.youtube.com/playlist?list=PLbIbXFTzonurH8gzJmO6AMoy7ckYAErzD)
