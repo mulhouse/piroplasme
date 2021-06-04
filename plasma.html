@@ -31,7 +31,7 @@
     <script src="https://cdn.jsdelivr.net/remarkable/1.7.1/remarkable.min.js"></script>
     <script>
         let url = "https://raw.githubusercontent.com/mulhouse/piroplasme/main/helloplasma.md";
-        let md = new Remarkable();
+        let md = new Remarkable({html:true});
         fetch(url)
             .then (response => response.text())
             .then (data => document.getElementById("content").innerHTML = md.render(data)); 
