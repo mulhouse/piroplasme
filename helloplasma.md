@@ -70,3 +70,4 @@ Plasma was an association aimed at setting up amazing gigs of obscure indie band
 | 12.06.10 | Punisher Party VII               | Thiaz Itch, Les Trucs, Driver & Driver                                            |                               |                    | Noumatrouff             | Mulhouse     |
 
 # [Playlist](https://www.youtube.com/playlist?list=PLbIbXFTzonurH8gzJmO6AMoy7ckYAErzD)
+# [Obituary](https://github.com/mulhouse/piroplasme/releases/download/obituary/Perfuzz_n71_Plasma_1.mp3)
